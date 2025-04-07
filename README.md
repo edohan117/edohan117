@@ -24,23 +24,30 @@
 
 ---
 
-###  **연락 방법**
-- <img src="https://img.shields.io/badge/Email-your-email%40example.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-- <img src="https://img.shields.io/badge/LinkedIn-Edohan-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+### 📫 **연락 방법**
+- <a href="mailto:your-email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-your-email%40example.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+- <a href="https://www.linkedin.com/in/edohan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Edohan-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
+
 
 ---
+
 
 ### 🛠️ **스킬셋**
-- <img src="https://img.shields.io/badge/Java%20Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Java Spring">
-- <img src="https://img.shields.io/badge/JSP-3E5B99?style=flat-square&logo=Apache%20Tomcat&logoColor=white" alt="JSP">
-- <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" alt="Vue.js">
-- <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" alt="React">
-- <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js">
-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL">
-- <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" alt="Oracle">
-- <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white" alt="MSSQL">
-
----
+<div>
+  <img src="https://img.shields.io/badge/Java%20Spring-6DB33F?style=flat&logo=Spring&logoColor=white" alt="Java Spring">
+  <img src="https://img.shields.io/badge/JSP-3E5B99?style=flat&logo=Apache%20Tomcat&logoColor=white" alt="JSP">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white" alt="Vue.js">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" alt="Oracle">
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white" alt="MSSQL">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=Microsoft%20Azure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQL&logoColor=white" alt="GraphQL">
+</div>
 
 ###  **Fun Fact**
 - **부동산 관련 전세사기 방지 사이트**를 개발 중!
