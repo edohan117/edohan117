@@ -53,6 +53,9 @@
 - 🎮 **게임과 개발**을 동시에 즐기는 사람
 
 
+### 🏆 **GitHub Stats**
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edohan117&show_icons=true&theme=radical)
+
 ---
 
 **"Always learning, always growing!"**
