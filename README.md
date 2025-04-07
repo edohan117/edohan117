@@ -44,9 +44,11 @@
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white" alt="MSSQL">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white" alt="Go">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat&logo=Microsoft%20Azure&logoColor=white" alt="Azure">
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=GraphQL&logoColor=white" alt="GraphQL">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" alt="jQuery">
+  <img src="https://img.shields.io/badge/Tibero-00A9E0?style=flat&logo=Tibero&logoColor=white" alt="Tibero">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black" alt="Linux">
 </div>
 
 ###  **Fun Fact**
